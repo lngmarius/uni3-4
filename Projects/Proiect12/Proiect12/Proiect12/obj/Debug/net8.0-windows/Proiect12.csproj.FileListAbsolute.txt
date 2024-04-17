@@ -1,0 +1,16 @@
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\bin\Debug\net8.0-windows\Proiect12.exe
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\bin\Debug\net8.0-windows\Proiect12.deps.json
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\bin\Debug\net8.0-windows\Proiect12.runtimeconfig.json
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\bin\Debug\net8.0-windows\Proiect12.dll
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\bin\Debug\net8.0-windows\Proiect12.pdb
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.Form1.resources
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.csproj.GenerateResource.cache
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.AssemblyInfoInputs.cache
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.AssemblyInfo.cs
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.csproj.CoreCompileInputs.cache
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.dll
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\refint\Proiect12.dll
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.pdb
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\Proiect12.genruntimeconfig.cache
+C:\Users\lunge\source\repos\lab12\Proiect12\Proiect12\obj\Debug\net8.0-windows\ref\Proiect12.dll

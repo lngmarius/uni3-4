@@ -1,0 +1,16 @@
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\bin\Debug\net8.0-windows\Proiect9.exe
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\bin\Debug\net8.0-windows\Proiect9.deps.json
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\bin\Debug\net8.0-windows\Proiect9.runtimeconfig.json
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\bin\Debug\net8.0-windows\Proiect9.dll
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\bin\Debug\net8.0-windows\Proiect9.pdb
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.Form1.resources
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.csproj.GenerateResource.cache
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.AssemblyInfoInputs.cache
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.AssemblyInfo.cs
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.csproj.CoreCompileInputs.cache
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.dll
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\refint\Proiect9.dll
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.pdb
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\Proiect9.genruntimeconfig.cache
+C:\Users\lunge\source\repos\lab9\Proiect9\Proiect9\obj\Debug\net8.0-windows\ref\Proiect9.dll

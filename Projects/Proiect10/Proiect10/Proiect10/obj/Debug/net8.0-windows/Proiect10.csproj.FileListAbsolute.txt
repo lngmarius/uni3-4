@@ -1,0 +1,17 @@
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\bin\Debug\net8.0-windows\Proiect10.exe
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\bin\Debug\net8.0-windows\Proiect10.deps.json
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\bin\Debug\net8.0-windows\Proiect10.runtimeconfig.json
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\bin\Debug\net8.0-windows\Proiect10.dll
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\bin\Debug\net8.0-windows\Proiect10.pdb
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.Form1.resources
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.csproj.GenerateResource.cache
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.AssemblyInfoInputs.cache
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.AssemblyInfo.cs
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.csproj.CoreCompileInputs.cache
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.dll
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\refint\Proiect10.dll
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.pdb
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.genruntimeconfig.cache
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\ref\Proiect10.dll
+C:\Users\lunge\source\repos\lab10\Proiect10\Proiect10\obj\Debug\net8.0-windows\Proiect10.Properties.Resources.resources

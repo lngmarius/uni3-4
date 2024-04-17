@@ -1,0 +1,16 @@
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\bin\Debug\net8.0-windows\Exercitiu.exe
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\bin\Debug\net8.0-windows\Exercitiu.deps.json
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\bin\Debug\net8.0-windows\Exercitiu.runtimeconfig.json
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\bin\Debug\net8.0-windows\Exercitiu.dll
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\bin\Debug\net8.0-windows\Exercitiu.pdb
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.Form1.resources
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.csproj.GenerateResource.cache
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.AssemblyInfoInputs.cache
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.AssemblyInfo.cs
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.csproj.CoreCompileInputs.cache
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.dll
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\refint\Exercitiu.dll
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.pdb
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\Exercitiu.genruntimeconfig.cache
+C:\Users\lunge\source\repos\lab6\Exercitiu\Exercitiu\obj\Debug\net8.0-windows\ref\Exercitiu.dll

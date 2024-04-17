@@ -1,0 +1,16 @@
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\bin\Debug\net8.0-windows\Proiect3.exe
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\bin\Debug\net8.0-windows\Proiect3.deps.json
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\bin\Debug\net8.0-windows\Proiect3.runtimeconfig.json
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\bin\Debug\net8.0-windows\Proiect3.dll
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\bin\Debug\net8.0-windows\Proiect3.pdb
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.Form1.resources
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.csproj.GenerateResource.cache
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.AssemblyInfoInputs.cache
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.AssemblyInfo.cs
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.csproj.CoreCompileInputs.cache
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.dll
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\refint\Proiect3.dll
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.pdb
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\Proiect3.genruntimeconfig.cache
+C:\Users\lunge\source\repos\lab3\Proiect3\Proiect3\obj\Debug\net8.0-windows\ref\Proiect3.dll

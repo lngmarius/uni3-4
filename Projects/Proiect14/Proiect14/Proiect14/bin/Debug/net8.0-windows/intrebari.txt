@@ -1,0 +1,90 @@
+What is the capital of France?
+Paris
+10
+paris.jpg
+Paris
+Rome
+Berlin
+Madrid
+-----
+Who wrote "Romeo and Juliet"?
+William Shakespeare
+10
+shakespeare.jpg
+William Shakespeare
+Mark Twain
+Jane Austen
+Leo Tolstoy
+-----
+Care este capitala Spaniei?
+Madrid
+10
+madrid.jpg
+Madrid
+Barcelona
+Lisabona
+Roma
+-----
+Cine a scris "Mândrie și prejudecată"?
+Jane Austen
+10
+austen.jpg
+Jane Austen
+Emily Brontë
+Charlotte Brontë
+George Eliot
+-----
+Cine a pictat "Mona Lisa"?
+Leonardo da Vinci
+10
+monalisa.jpg
+Leonardo da Vinci
+Pablo Picasso
+Vincent van Gogh
+Michelangelo
+-----
+Care este cel mai lung fluviu din lume?
+Nilul
+10
+nil.jpg
+Nilul
+Amazon
+Mississippi
+Gange
+-----
+Cine a scris "Odiseea"?
+Homer
+10
+homer.jpg
+Homer
+Virgil
+Dante Alighieri
+Platon
+-----
+Câte continente există pe Pământ?
+7
+10
+continent.jpg
+7
+5
+6
+8
+-----
+Care este cel mai mare ocean al lumii?
+Oceanul Pacific
+10
+pacific.jpg
+Oceanul Pacific
+Oceanul Atlantic
+Oceanul Indian
+Oceanul Arctic
+-----
+Câte planete sunt în sistemul nostru solar?
+8
+10
+solarsystem.jpg
+8
+9
+10
+11
+-----

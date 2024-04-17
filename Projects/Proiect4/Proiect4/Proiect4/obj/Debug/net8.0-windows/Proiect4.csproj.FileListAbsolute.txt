@@ -1,0 +1,16 @@
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\bin\Debug\net8.0-windows\Proiect4.exe
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\bin\Debug\net8.0-windows\Proiect4.deps.json
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\bin\Debug\net8.0-windows\Proiect4.runtimeconfig.json
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\bin\Debug\net8.0-windows\Proiect4.dll
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\bin\Debug\net8.0-windows\Proiect4.pdb
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.Form1.resources
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.csproj.GenerateResource.cache
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.AssemblyInfoInputs.cache
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.AssemblyInfo.cs
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.csproj.CoreCompileInputs.cache
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.dll
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\refint\Proiect4.dll
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.pdb
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\Proiect4.genruntimeconfig.cache
+C:\Users\lunge\source\repos\lab4\Proiect4\Proiect4\obj\Debug\net8.0-windows\ref\Proiect4.dll
