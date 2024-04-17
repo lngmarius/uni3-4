@@ -63,9 +63,9 @@ Running the Projects
 Contributing
 
 If you'd like to contribute to any of the projects, feel free to fork this repository, make your changes, and submit a pull request. Contributions such as bug fixes, enhancements, and additional features are always welcome!
+
 License
-
 These projects are provided under the MIT License, allowing you to freely use and modify them for both personal and commercial purposes.
-Acknowledgements
 
+Acknowledgements
 Special thanks to our university instructors for guiding us through these projects and providing valuable insights into Windows Forms application development in C#.
