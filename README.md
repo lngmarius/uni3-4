@@ -3,7 +3,7 @@
 This is a repository containing a collection of 14 Windows Form projects completed during our university class. These projects cover a range of topics and demonstrate various concepts in C# programming. Each project is designed to showcase different aspects of Windows Forms application development, providing a comprehensive learning experience for students.
 Projects Overview
 
- ** Project 1**: Controls
+ **Project 1**: Controls
         The foundation of a Windows interface is represented by controls. These controls can be hosted by a container, which can be a form or another control. Controls derive from System.Windows.Forms and are responsible for rendering a portion of the container.
  
   **Project 2**: Value Controls
