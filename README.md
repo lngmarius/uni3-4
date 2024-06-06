@@ -18,7 +18,7 @@ Projects Overview
   **Project 5**: List Controls
         List controls such as ListBox, CheckedListBox, ComboBox, and ImageList can be bound to a DataSet, ArrayList, or any array-like data source.
         
-  **Project 6**: PV6 Application
+  **Project 6**: Application
         Demonstrates the use of the ImageList control. The "Draw" button adds *.gif files from the specified folder to the list and displays them. The "Animate" button animates the *.gif files using PictureBox.
         
   **Project 7**: MonthCalendar
@@ -39,7 +39,7 @@ Projects Overview
   **Project 12**: System.Drawing
         Contains types for 2D drawing essential for graphical user interface design.
         
-  **Project 13**: PV13 Example
+  **Project 13**: Image load
         Constructs an icon based on an image. Demonstrates loading an image and drawing it on a form.
         
   **Project 14**: Multiple Choice Test Generator
